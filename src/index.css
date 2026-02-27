@@ -5,7 +5,7 @@
 /* small customizations on top of Tailwind */
 body {
   margin: 0;
-  background-color: #e8f0f2;
+  background-color: #f4efe8;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
