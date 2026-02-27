@@ -1,0 +1,2630 @@
+[
+  {
+    "id": 1,
+    "name": "Dal Tadka 1",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?dal-tadka,indian-food",
+    "tags": ["healthy"],
+    "ingredients": ["toor dal","rice","ghee","cumin seeds","turmeric"]
+  },
+  {
+    "id": 2,
+    "name": "Palak Paneer 2",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?palak-paneer,indian-food",
+    "tags": ["healthy"],
+    "ingredients": ["spinach","paneer","whole wheat flour","garam masala","cream"]
+  },
+  {
+    "id": 3,
+    "name": "Chole Bhature 3",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?chole-bhature,indian-food",
+    "ingredients": ["chickpeas","tomato","ginger","chole masala","flour"]
+  },
+  {
+    "id": 4,
+    "name": "Aloo Gobi 4",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-gobi,vegetable",
+    "ingredients": ["potato","cauliflower","tomato","cumin","turmeric"]
+  },
+  {
+    "id": 5,
+    "name": "Vegetable Pulao 5",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?vegetable-pulao,rice",
+    "tags": ["healthy"],
+    "ingredients": ["rice","mixed vegetables","ghee","bay leaf","cloves"]
+  },
+  {
+    "id": 6,
+    "name": "Idli with Coconut Chutney 6",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?idli,coconut-chutney",
+    "tags": ["healthy"],
+    "ingredients": ["idli batter","coconut","green chili","urad dal","mustard seeds"]
+  },
+  {
+    "id": 7,
+    "name": "Masala Dosa 7",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?masala-dosa,south-indian",
+    "ingredients": ["dosa batter","potato","mustard seeds","turmeric","curry leaves"]
+  },
+  {
+    "id": 8,
+    "name": "Matar Paneer 8",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?matar-paneer,curry",
+    "ingredients": ["peas","paneer","tomato","garam masala","cumin"]
+  },
+  {
+    "id": 9,
+    "name": "Rajma Chawal 9",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?rajma-chawal,indian-food",
+    "tags": ["healthy"],
+    "ingredients": ["kidney beans","rice","onion","tomato","garam masala"]
+  },
+  {
+    "id": 10,
+    "name": "Veg Hakka Noodles 10",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?veg-hakka-noodles,street-food",
+    "ingredients": ["noodles","mixed vegetables","soy sauce","garlic","oil"]
+  },
+  {
+    "id": 11,
+    "name": "Kadhi with Rice (Jain) 11",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?kadhi,rice",
+    "ingredients": ["yogurt","besan","rice","turmeric","asafoetida"]
+  },
+  {
+    "id": 12,
+    "name": "Paneer Bhurji (Jain) 12",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?paneer-bhurji,india",
+    "ingredients": ["paneer","tomato","green chili","turmeric","coriander"]
+  },
+  {
+    "id": 13,
+    "name": "Sabudana Khichdi (Jain) 13",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?sabudana,khichdi",
+    "ingredients": ["sabudana","peanuts","cumin","green chili","lemon"]
+  },
+  {
+    "id": 14,
+    "name": "Lauki Chana Dal (Jain) 14",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?lauki,chana-dal",
+    "ingredients": ["bottle gourd","chana dal","turmeric","cumin","coriander"]
+  },
+  {
+    "id": 15,
+    "name": "Methi Matar (Jain) 15",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?methi,matar",
+    "ingredients": ["fenugreek","peas","tomato","turmeric","cumin"]
+  },
+  {
+    "id": 16,
+    "name": "Vegetable Biryani (Jain) 16",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?vegetable-biryani",
+    "ingredients": ["rice","mixed vegetables","saffron","yogurt","spices"]
+  },
+  {
+    "id": 17,
+    "name": "Moong Dal Khichdi (Jain) 17",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?moong-dal-khichdi",
+    "tags": ["healthy"],
+    "ingredients": ["moong dal","rice","turmeric","ghee","cumin"]
+  },
+  {
+    "id": 18,
+    "name": "Stuffed Capsicum (Jain) 18",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?stuffed-capsicum",
+    "ingredients": ["capsicum","paneer","spices","tomato","bread crumbs"]
+  },
+  {
+    "id": 19,
+    "name": "Corn Palak (Jain) 19",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?corn-palak",
+    "tags": ["healthy"],
+    "ingredients": ["spinach","corn","spices","cream","cumin"]
+  },
+  {
+    "id": 20,
+    "name": "Cucumber Raita & Chapati (Jain) 20",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?raita,chapati",
+    "ingredients": ["cucumber","yogurt","cumin","chapati flour","salt"]
+  },
+  {
+    "id": 21,
+    "name": "Sambar 21",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?sambar,dal",
+    "ingredients": ["toor dal","sambar powder","tamarind","vegetables","mustard seeds"]
+  },
+  {
+    "id": 22,
+    "name": "Rava Upma 22",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?rava-upma,breakfast",
+    "ingredients": ["rava","mustard seeds","green chili","peanuts","vegetables"]
+  },
+  {
+    "id": 23,
+    "name": "Paneer Butter Masala 23",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-butter-masala",
+    "ingredients": ["paneer","tomato","butter","cream","kasuri methi"]
+  },
+  {
+    "id": 24,
+    "name": "Bhindi Masala 24",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?bhindi-masala",
+    "ingredients": ["bhindi","onion","tomato","spices","oil"]
+  },
+  {
+    "id": 25,
+    "name": "Dum Aloo 25",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?dum-aloo",
+    "ingredients": ["potato","yogurt","tomato","garam masala","cumin"]
+  },
+  {
+    "id": 26,
+    "name": "Baingan Bharta 26",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?baingan-bharta",
+    "ingredients": ["eggplant","tomato","onion","garlic","coriander"]
+  },
+  {
+    "id": 27,
+    "name": "Soya Chaap 27",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?soya-chaap",
+    "ingredients": ["soya chaap","spices","yogurt","ginger","garlic"]
+  },
+  {
+    "id": 28,
+    "name": "Methi Thepla 28",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-thepla",
+    "ingredients": ["fenugreek","whole wheat flour","spices","oil","salt"]
+  },
+  {
+    "id": 29,
+    "name": "Pav Bhaji 29",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?pav-bhaji",
+    "ingredients": ["potato","peas","tomato","butter","pav"]
+  },
+  {
+    "id": 30,
+    "name": "Vegetable Korma 30",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?vegetable-korma",
+    "ingredients": ["mixed vegetables","coconut","spices","yogurt","cashews"]
+  },
+  {
+    "id": 31,
+    "name": "Mixed Vegetable Curry 31",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?mixed-vegetable-curry",
+    "ingredients": ["mixed vegetables","tomato","onion","garlic","spices"]
+  },
+  {
+    "id": 32,
+    "name": "Lobia Masala 32",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?lobia-masala",
+    "ingredients": ["black-eyed peas","tomato","onion","spices","cumin"]
+  },
+  {
+    "id": 33,
+    "name": "Sev Tameta 33",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?sev-tameta",
+    "ingredients": ["sev","tomato","onion","spices","coriander"]
+  },
+  {
+    "id": 34,
+    "name": "Methi Paratha 34",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-paratha",
+    "ingredients": ["fenugreek","wheat flour","spices","oil","salt"]
+  },
+  {
+    "id": 35,
+    "name": "Kadhai Paneer 35",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?kadhai-paneer",
+    "ingredients": ["paneer","capsicum","tomato","kadhai masala","onion"]
+  },
+  {
+    "id": 36,
+    "name": "Tawa Vegetables 36",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tawa-vegetables",
+    "ingredients": ["mixed vegetables","spices","oil","lemon","coriander"]
+  },
+  {
+    "id": 37,
+    "name": "Korma Rice 37",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?korma-rice",
+    "ingredients": ["rice","korma gravy","vegetables","spices","ghee"]
+  },
+  {
+    "id": 38,
+    "name": "Kofta Curry 38",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?kofta-curry",
+    "ingredients": ["vegetable kofta","tomato gravy","spices","cream","cashews"]
+  },
+  {
+    "id": 39,
+    "name": "Curd Rice 39",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?curd-rice",
+    "ingredients": ["rice","yogurt","salt","coriander","mustard seeds"]
+  },
+  {
+    "id": 40,
+    "name": "Besan Chilla 40",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?besan-chilla",
+    "ingredients": ["besan","spices","vegetables","oil","salt"]
+  },
+  {
+    "id": 41,
+    "name": "Karela Sabzi 41",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?karela-sabzi",
+    "ingredients": ["bitter gourd","spices","onion","tomato","oil"]
+  },
+  {
+    "id": 42,
+    "name": "Mixed Lentil Soup 42",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?lentil-soup",
+    "tags": ["healthy"],
+    "ingredients": ["moong dal","masoor dal","vegetables","spices","lemon"]
+  },
+  {
+    "id": 43,
+    "name": "Chana Sundal 43",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?chana-sundal",
+    "ingredients": ["chickpeas","coconut","mustard seeds","curry leaves","turmeric"]
+  },
+  {
+    "id": 44,
+    "name": "Aloo Methi 44",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-methi",
+    "ingredients": ["potato","fenugreek","spices","oil","lemon"]
+  },
+  {
+    "id": 45,
+    "name": "Vegetable Stew 45",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?vegetable-stew",
+    "ingredients": ["mixed vegetables","coconut milk","spices","coriander","salt"]
+  },
+  {
+    "id": 46,
+    "name": "Tomato Rasam 46",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-rasam",
+    "ingredients": ["tomato","tamarind","spices","coriander","pepper"]
+  },
+  {
+    "id": 47,
+    "name": "Aloo Paratha 47",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-paratha",
+    "ingredients": ["potato","wheat flour","spices","ghee","butter"]
+  },
+  {
+    "id": 48,
+    "name": "Gobi Manchurian 48",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?gobi-manchurian",
+    "ingredients": ["cauliflower","batter","sauce","soy sauce","garlic"]
+  },
+  {
+    "id": 49,
+    "name": "Mushroom Masala 49",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?mushroom-masala",
+    "ingredients": ["mushroom","tomato","onion","spices","cream"]
+  },
+  {
+    "id": 50,
+    "name": "Spinach Corn Curry 50",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?spinach-corn-curry",
+    "tags": ["healthy"],
+    "ingredients": ["spinach","corn","tomato","spices","cream"]
+  },
+  {
+    "id": 51,
+    "name": "Paneer Tikka Masala 51",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-tikka-masala",
+    "ingredients": ["paneer","tomato","cream","spices","capsicum"]
+  },
+  {
+    "id": 52,
+    "name": "Tomato Chutney Rice 52",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-chutney-rice",
+    "ingredients": ["rice","tomato","chutney","ghee","spices"]
+  },
+  {
+    "id": 53,
+    "name": "Sprouted Moong Salad 53",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?sprouted-moong-salad",
+    "tags": ["healthy"],
+    "ingredients": ["sprouted moong","tomato","cucumber","lemon","salt"]
+  },
+  {
+    "id": 54,
+    "name": "Methi Malai Matar 54",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-malai-matar",
+    "ingredients": ["fenugreek","peas","cream","spices","salt"]
+  },
+  {
+    "id": 55,
+    "name": "Corn Chaat 55",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-chaat",
+    "ingredients": ["corn","chutney","lemon","spices","coriander"]
+  },
+  {
+    "id": 56,
+    "name": "Peas Pulao 56",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?peas-pulao",
+    "ingredients": ["rice","peas","spices","ghee","bay leaf"]
+  },
+  {
+    "id": 57,
+    "name": "Khandvi 57",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?khandvi",
+    "ingredients": ["besan","yogurt","ginger","green chili","coriander"]
+  },
+  {
+    "id": 58,
+    "name": "Masala Kulcha 58",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?masala-kulcha",
+    "ingredients": ["wheat flour","potato stuffing","spices","butter","salt"]
+  },
+  {
+    "id": 59,
+    "name": "Aloo Tamatar Sabzi 59",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-tamatar",
+    "ingredients": ["potato","tomato","spices","oil","coriander"]
+  },
+  {
+    "id": 60,
+    "name": "Mawa Kachori (Sweet) 60",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?kachori-sweet",
+    "ingredients": ["mawa","flour","ghee","sugar","cardamom"]
+  },
+  {
+    "id": 61,
+    "name": "Pesarattu 61",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?pesarattu",
+    "ingredients": ["green gram","rice","ginger","green chili","coriander"]
+  },
+  {
+    "id": 62,
+    "name": "Aloo Capsicum 62",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-capsicum",
+    "ingredients": ["potato","capsicum","spices","oil","cumin"]
+  },
+  {
+    "id": 63,
+    "name": "Mushroom Fried Rice 63",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?mushroom-fried-rice",
+    "ingredients": ["rice","mushroom","soy sauce","garlic","vegetables"]
+  },
+  {
+    "id": 64,
+    "name": "Tomato Pulao 64",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-pulao",
+    "ingredients": ["rice","tomato","spices","ghee","coriander"]
+  },
+  {
+    "id": 65,
+    "name": "Palak Rice 65",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?palak-rice",
+    "tags": ["healthy"],
+    "ingredients": ["spinach","rice","ghee","salt","lemon"]
+  },
+  {
+    "id": 66,
+    "name": "Corn Biryani 66",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-biryani",
+    "ingredients": ["rice","corn","spices","yogurt","ghee"]
+  },
+  {
+    "id": 67,
+    "name": "Methi Dal 67",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?methi-dal",
+    "ingredients": ["daal","fenugreek","spices","ghee","cumin"]
+  },
+  {
+    "id": 68,
+    "name": "Ratatouille Indian Style 68",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?ratatouille-indian",
+    "ingredients": ["eggplant","zucchini","tomato","spices","olive oil"]
+  },
+  {
+    "id": 69,
+    "name": "Beetroot Poriyal 69",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?beetroot-poriyal",
+    "ingredients": ["beetroot","coconut","mustard seeds","curry leaves","turmeric"]
+  },
+  {
+    "id": 70,
+    "name": "Aloo Matar 70",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-matar",
+    "ingredients": ["potato","peas","tomato","garam masala","cumin"]
+  },
+  {
+    "id": 71,
+    "name": "Lentil Salad 71",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?lentil-salad",
+    "tags": ["healthy"],
+    "ingredients": ["lentils","tomato","cucumber","lemon","olive oil"]
+  },
+  {
+    "id": 72,
+    "name": "Corn Pakora 72",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-pakora",
+    "ingredients": ["corn","besan","spices","oil","salt"]
+  },
+  {
+    "id": 73,
+    "name": "Khichu 73",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?khichu",
+    "ingredients": ["rice flour","spices","oil","salt","ginger"]
+  },
+  {
+    "id": 74,
+    "name": "Methi Dal Makhani 74",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?dal-makhani",
+    "ingredients": ["black lentils","fenugreek","cream","butter","spices"]
+  },
+  {
+    "id": 75,
+    "name": "Aloo Methi Paratha 75",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-methi-paratha",
+    "ingredients": ["potato","fenugreek","wheat flour","spices","ghee"]
+  },
+  {
+    "id": 76,
+    "name": "Masala Corn 76",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?masala-corn",
+    "ingredients": ["corn","spices","butter","lemon","chili powder"]
+  },
+  {
+    "id": 77,
+    "name": "Paneer Makhani 77",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-makhani",
+    "ingredients": ["paneer","tomato","butter","cream","spices"]
+  },
+  {
+    "id": 78,
+    "name": "Green Peas Masala 78",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?green-peas-masala",
+    "ingredients": ["peas","tomato","spices","cumin","ghee"]
+  },
+  {
+    "id": 79,
+    "name": "Veg Manchurian 79",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?veg-manchurian",
+    "ingredients": ["mixed veg kofta","sauce","soy sauce","garlic","spring onion"]
+  },
+  {
+    "id": 80,
+    "name": "Pav Bhaji Masala 80",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?pav-bhaji-masala",
+    "ingredients": ["pav bhaji masala","vegetables","butter","pav","lemon"]
+  },
+  {
+    "id": 81,
+    "name": "Tomato Saar 81",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-saar",
+    "ingredients": ["tomato","tamarind","spices","salt","coriander"]
+  },
+  {
+    "id": 82,
+    "name": "Kuttu Ki Puri 82",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?kuttu-puri",
+    "ingredients": ["kuttu flour","salt","oil","water","ghee"]
+  },
+  {
+    "id": 83,
+    "name": "Methi Matar Malai 83",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-malai",
+    "ingredients": ["fenugreek","peas","cream","spices","salt"]
+  },
+  {
+    "id": 84,
+    "name": "Aloo Tikki 84",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-tikki",
+    "ingredients": ["potato","spices","bread crumbs","oil","chutney"]
+  },
+  {
+    "id": 85,
+    "name": "Palak Kofta 85",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?palak-kofta",
+    "ingredients": ["spinach","potato","spices","gravy","cream"]
+  },
+  {
+    "id": 86,
+    "name": "Momos Veg 86",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?veg-momos",
+    "ingredients": ["dumpling wrappers","mixed veg","soy sauce","garlic","ginger"]
+  },
+  {
+    "id": 87,
+    "name": "Aloo Chaat 87",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-chaat",
+    "ingredients": ["potato","chutney","spices","sev","lemon"]
+  },
+  {
+    "id": 88,
+    "name": "Roti Rolls 88",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?roti-rolls",
+    "ingredients": ["roti","vegetable filling","spices","sauce","lettuce"]
+  },
+  {
+    "id": 89,
+    "name": "Makki Ki Roti & Sarson 89",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?makki-roti-sarson",
+    "ingredients": ["corn flour","mustard greens","spices","ghee","salt"]
+  },
+  {
+    "id": 90,
+    "name": "Masala Peanuts 90",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?masala-peanuts",
+    "ingredients": ["peanuts","spices","salt","oil","chili powder"]
+  },
+  {
+    "id": 91,
+    "name": "Gajar Matar 91",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?gajar-matar",
+    "ingredients": ["carrot","peas","spices","oil","cumin"]
+  },
+  {
+    "id": 92,
+    "name": "Tomato Rasam Rice 92",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-rasam-rice",
+    "ingredients": ["rice","tomato rasam","tamarind","coriander","ghee"]
+  },
+  {
+    "id": 93,
+    "name": "Aloo Baingan 93",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-baingan",
+    "ingredients": ["potato","eggplant","tomato","spices","oil"]
+  },
+  {
+    "id": 94,
+    "name": "Methi Matar 94",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?methi-matar",
+    "ingredients": ["fenugreek","peas","tomato","spices","salt"]
+  },
+  {
+    "id": 95,
+    "name": "Veg Spring Rolls 95",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?veg-spring-rolls",
+    "ingredients": ["spring roll wrappers","mixed veg","soy sauce","oil","spices"]
+  },
+  {
+    "id": 96,
+    "name": "Palak Chole 96",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?palak-chole",
+    "ingredients": ["spinach","chickpeas","tomato","spices","garlic"]
+  },
+  {
+    "id": 97,
+    "name": "Ridge Gourd Curry 97",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?ridge-gourd-curry",
+    "ingredients": ["ridge gourd","tomato","turmeric","cumin","coriander"]
+  },
+  {
+    "id": 98,
+    "name": "Matar Paneer Masala 98",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?matar-paneer-masala",
+    "ingredients": ["peas","paneer","tomato","spices","cream"]
+  },
+  {
+    "id": 99,
+    "name": "Karela Fry 99",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?karela-fry",
+    "ingredients": ["bitter gourd","spices","oil","salt","lemon"]
+  },
+  {
+    "id": 100,
+    "name": "Tinda Masala 100",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tinda-masala",
+    "ingredients": ["tinda","tomato","spices","coriander","oil"]
+  },
+  {
+    "id": 101,
+    "name": "Mooli Paratha 101",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?mooli-paratha",
+    "ingredients": ["radish","wheat flour","spices","ghee","salt"]
+  },
+  {
+    "id": 102,
+    "name": "Green Gram Curry 102",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?green-gram-curry",
+    "ingredients": ["green gram","tomato","spices","cumin","coriander"]
+  },
+  {
+    "id": 103,
+    "name": "Paneer Chilli 103",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-chilli",
+    "ingredients": ["paneer","soy sauce","capsicum","onion","garlic"]
+  },
+  {
+    "id": 104,
+    "name": "Tomato Uttapam 104",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-uttapam",
+    "ingredients": ["uttapam batter","tomato","onion","chili","coriander"]
+  },
+  {
+    "id": 105,
+    "name": "Vankaya Pulusu 105",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?vankaya-pulusu",
+    "ingredients": ["eggplant","tamarind","spices","coriander","oil"]
+  },
+  {
+    "id": 106,
+    "name": "Methi Kofta 106",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-kofta",
+    "ingredients": ["fenugreek","potato","spices","gravy","cream"]
+  },
+  {
+    "id": 107,
+    "name": "Paneer Roll 107",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-roll",
+    "ingredients": ["roti","paneer","spices","onion","sauce"]
+  },
+  {
+    "id": 108,
+    "name": "Mushroom Do Pyaza 108",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?mushroom-do-pyaza",
+    "ingredients": ["mushroom","onion","tomato","spices","coriander"]
+  },
+  {
+    "id": 109,
+    "name": "Pulao with Vegetables 109",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?vegetable-pulao",
+    "ingredients": ["rice","mixed vegetables","ghee","bay leaf","spices"]
+  },
+  {
+    "id": 110,
+    "name": "Paneer Paratha 110",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-paratha",
+    "ingredients": ["paneer","wheat flour","spices","ghee","salt"]
+  },
+  {
+    "id": 111,
+    "name": "Lentil Patties 111",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?lentil-patties",
+    "ingredients": ["lentils","spices","bread crumbs","oil","salt"]
+  },
+  {
+    "id": 112,
+    "name": "Veg Sizzler 112",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?veg-sizzler",
+    "ingredients": ["mixed vegetables","sauce","noodles","spices","butter"]
+  },
+  {
+    "id": 113,
+    "name": "Paneer Pasanda 113",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-pasanda",
+    "ingredients": ["paneer","tomato","cream","spices","coriander"]
+  },
+  {
+    "id": 114,
+    "name": "Vegetable Frankie 114",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?vegetable-frankie",
+    "ingredients": ["roti","vegetable filling","spices","sauce","lettuce"]
+  },
+  {
+    "id": 115,
+    "name": "Aloo Poha 115",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-poha",
+    "ingredients": ["poha","potato","mustard seeds","peanuts","coriander"]
+  },
+  {
+    "id": 116,
+    "name": "Masala Oats 116",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?masala-oats",
+    "tags": ["healthy"],
+    "ingredients": ["oats","vegetables","spices","salt","olive oil"]
+  },
+  {
+    "id": 117,
+    "name": "Matar Paneer Fry 117",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?matar-paneer-fry",
+    "ingredients": ["peas","paneer","spices","oil","tomato"]
+  },
+  {
+    "id": 118,
+    "name": "Sweet Corn Soup 118",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?sweet-corn-soup",
+    "tags": ["healthy"],
+    "ingredients": ["corn","vegetable stock","salt","pepper","coriander"]
+  },
+  {
+    "id": 119,
+    "name": "Veg Pulav 119",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?veg-pulav",
+    "ingredients": ["rice","mixed vegetables","spices","ghee","bay leaf"]
+  },
+  {
+    "id": 120,
+    "name": "Methi Matar Malai 120",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-malai",
+    "ingredients": ["fenugreek","peas","cream","spices","salt"]
+  },
+  {
+    "id": 121,
+    "name": "Aloo Beans 121",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-beans",
+    "ingredients": ["potato","beans","spices","oil","cumin"]
+  },
+  {
+    "id": 122,
+    "name": "Veg Jalfrezi 122",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?veg-jalfrezi",
+    "ingredients": ["mixed vegetables","tomato","onion","spices","coriander"]
+  },
+  {
+    "id": 123,
+    "name": "Pesarattu Upma 123",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?pesarattu-upma",
+    "ingredients": ["green gram","rava","spices","ginger","coriander"]
+  },
+  {
+    "id": 124,
+    "name": "Tomato Chana 124",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-chana",
+    "ingredients": ["chickpeas","tomato","spices","cumin","coriander"]
+  },
+  {
+    "id": 125,
+    "name": "Corn Palak 125",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?corn-palak",
+    "ingredients": ["corn","spinach","spices","cream","salt"]
+  },
+  {
+    "id": 126,
+    "name": "Vegetable Frankie 126",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?vegetable-frankie",
+    "ingredients": ["roti","vegetable filling","spices","sauce","lettuce"]
+  },
+  {
+    "id": 127,
+    "name": "Aloo Tamatar 127",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-tamatar",
+    "ingredients": ["potato","tomato","spices","oil","coriander"]
+  },
+  {
+    "id": 128,
+    "name": "Green Moong Curry 128",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?green-moong-curry",
+    "ingredients": ["green moong","tomato","spices","cumin","lemon"]
+  },
+  {
+    "id": 129,
+    "name": "Kadhi Pakora 129",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?kadhi-pakora",
+    "ingredients": ["yogurt","besan","pakora","turmeric","asafoetida"]
+  },
+  {
+    "id": 130,
+    "name": "Masala Khichdi 130",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?masala-khichdi",
+    "ingredients": ["rice","dal","vegetables","spices","ghee"]
+  },
+  {
+    "id": 131,
+    "name": "Ghee Rice 131",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?ghee-rice",
+    "ingredients": ["rice","ghee","bay leaf","cloves","spices"]
+  },
+  {
+    "id": 132,
+    "name": "Paneer Methi 132",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-methi",
+    "ingredients": ["paneer","fenugreek","spices","cream","salt"]
+  },
+  {
+    "id": 133,
+    "name": "Vegetable Kofta 133",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?vegetable-kofta",
+    "ingredients": ["vegetable kofta","gravy","spices","cream","coriander"]
+  },
+  {
+    "id": 134,
+    "name": "Gobi Curry 134",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?gobi-curry",
+    "ingredients": ["cauliflower","tomato","spices","cumin","coriander"]
+  },
+  {
+    "id": 135,
+    "name": "Tur Dal 135",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tur-dal",
+    "ingredients": ["toor dal","turmeric","ghee","cumin","salt"]
+  },
+  {
+    "id": 136,
+    "name": "Matar Paneer Green 136",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?matar-paneer-green",
+    "ingredients": ["peas","paneer","green masala","spices","coriander"]
+  },
+  {
+    "id": 137,
+    "name": "Schezwan Fried Rice 137",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?schezwan-fried-rice",
+    "ingredients": ["rice","schezwan sauce","vegetables","soy sauce","garlic"]
+  },
+  {
+    "id": 138,
+    "name": "Corn & Peas Sabzi 138",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-peas-sabzi",
+    "ingredients": ["corn","peas","spices","butter","salt"]
+  },
+  {
+    "id": 139,
+    "name": "Aloo Capsicum Fry 139",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-capsicum-fry",
+    "ingredients": ["potato","capsicum","spices","oil","cumin"]
+  },
+  {
+    "id": 140,
+    "name": "Dal Fry 140",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?dal-fry",
+    "ingredients": ["dal","tomato","ghee","cumin","garlic"]
+  },
+  {
+    "id": 141,
+    "name": "Lentil Stew 141",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?lentil-stew",
+    "tags": ["healthy"],
+    "ingredients": ["mixed lentils","vegetables","spices","lemon","coriander"]
+  },
+  {
+    "id": 142,
+    "name": "Methi Malai Paneer 142",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-malai-paneer",
+    "ingredients": ["fenugreek","paneer","cream","spices","salt"]
+  },
+  {
+    "id": 143,
+    "name": "Vegetable Dalia 143",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?vegetable-dalia",
+    "tags": ["healthy"],
+    "ingredients": ["broken wheat","vegetables","spices","ghee","salt"]
+  },
+  {
+    "id": 144,
+    "name": "Tomato Chole 144",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-chole",
+    "ingredients": ["chickpeas","tomato","spices","garam masala","cumin"]
+  },
+  {
+    "id": 145,
+    "name": "Paneer Lababdar 145",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-lababdar",
+    "ingredients": ["paneer","tomato","cream","spices","coriander"]
+  },
+  {
+    "id": 146,
+    "name": "Aloo Mattar 146",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-mattar",
+    "ingredients": ["potato","peas","tomato","garam masala","cumin"]
+  },
+  {
+    "id": 147,
+    "name": "Methi Thepla Roll 147",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-thepla-roll",
+    "ingredients": ["fenugreek","wheat flour","spices","oil","salt"]
+  },
+  {
+    "id": 148,
+    "name": "Chana Masala 148",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?chana-masala",
+    "ingredients": ["chickpeas","tomato","onion","spices","cumin"]
+  },
+  {
+    "id": 149,
+    "name": "Vegetable Kathi Roll 149",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?vegetable-kathi-roll",
+    "ingredients": ["paratha","vegetable filling","spices","sauce","lettuce"]
+  },
+  {
+    "id": 150,
+    "name": "Masala Idli 150",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?masala-idli",
+    "ingredients": ["idli","spices","tomato","onion","coriander"]
+  },
+  {
+    "id": 151,
+    "name": "Dhaniya Pulao 151",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?dhaniya-pulao",
+    "ingredients": ["rice","coriander","spices","ghee","vegetables"]
+  },
+  {
+    "id": 152,
+    "name": "Methi Matar Paratha 152",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-paratha",
+    "ingredients": ["fenugreek","peas","wheat flour","spices","ghee"]
+  },
+  {
+    "id": 153,
+    "name": "Aloo Mutter Kulcha 153",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-mutter-kulcha",
+    "ingredients": ["potato","peas","kulcha","spices","butter"]
+  },
+  {
+    "id": 154,
+    "name": "Veg Hotpot 154",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?veg-hotpot",
+    "ingredients": ["mixed vegetables","broth","spices","noodles","herbs"]
+  },
+  {
+    "id": 155,
+    "name": "Tomato Saar Rice 155",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-saar-rice",
+    "ingredients": ["rice","tomato saar","tamarind","coriander","ghee"]
+  },
+  {
+    "id": 156,
+    "name": "Kashmiri Dum Aloo 156",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?kashmiri-dum-aloo",
+    "ingredients": ["potato","yogurt","spices","cashews","saffron"]
+  },
+  {
+    "id": 157,
+    "name": "Lauki Kofta 157",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?lauki-kofta",
+    "ingredients": ["bottle gourd","besan","spices","gravy","coriander"]
+  },
+  {
+    "id": 158,
+    "name": "Aloo Palak 158",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-palak",
+    "ingredients": ["potato","spinach","spices","ghee","salt"]
+  },
+  {
+    "id": 159,
+    "name": "Tomato Chutney Pulao 159",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-chutney-pulao",
+    "ingredients": ["rice","tomato","chutney","ghee","spices"]
+  },
+  {
+    "id": 160,
+    "name": "Mixed Sprouts Curry 160",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?mixed-sprouts-curry",
+    "tags": ["healthy"],
+    "ingredients": ["sprouts","tomato","spices","lemon","coriander"]
+  },
+  {
+    "id": 161,
+    "name": "Paneer Bhuna 161",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-bhuna",
+    "ingredients": ["paneer","tomato","onion","spices","coriander"]
+  },
+  {
+    "id": 162,
+    "name": "Aloo Matar Ki Sabzi 162",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-matar-sabzi",
+    "ingredients": ["potato","peas","tomato","spices","cumin"]
+  },
+  {
+    "id": 163,
+    "name": "Peanut Chutney Rice 163",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?peanut-chutney-rice",
+    "ingredients": ["rice","peanut","chutney","ghee","spices"]
+  },
+  {
+    "id": 164,
+    "name": "Tomato Sev Rice 164",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-sev-rice",
+    "ingredients": ["rice","tomato","sev","spices","coriander"]
+  },
+  {
+    "id": 165,
+    "name": "Methi Matar Rice 165",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-rice",
+    "ingredients": ["fenugreek","peas","rice","ghee","spices"]
+  },
+  {
+    "id": 166,
+    "name": "Paneer Khurchan 166",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-khurchan",
+    "ingredients": ["paneer","onion","tomato","spices","coriander"]
+  },
+  {
+    "id": 167,
+    "name": "Corn & Capsicum Fry 167",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-capsicum-fry",
+    "ingredients": ["corn","capsicum","spices","oil","salt"]
+  },
+  {
+    "id": 168,
+    "name": "Tomato Oats 168",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-oats",
+    "tags": ["healthy"],
+    "ingredients": ["oats","tomato","spices","olive oil","salt"]
+  },
+  {
+    "id": 169,
+    "name": "Matar Paneer Korma 169",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?matar-paneer-korma",
+    "ingredients": ["peas","paneer","korma gravy","spices","cream"]
+  },
+  {
+    "id": 170,
+    "name": "Potato Wedges Indian 170",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?potato-wedges-indian",
+    "ingredients": ["potato","spices","oil","salt","lemon"]
+  },
+  {
+    "id": 171,
+    "name": "Vegetable Kebab 171",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?vegetable-kebab",
+    "ingredients": ["mixed vegetables","spices","skewers","oil","salt"]
+  },
+  {
+    "id": 172,
+    "name": "Besan Ladoo 172",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?besan-ladoo",
+    "ingredients": ["besan","ghee","sugar","cardamom","nuts"]
+  },
+  {
+    "id": 173,
+    "name": "Vegetable Cutlets 173",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?vegetable-cutlets",
+    "ingredients": ["potato","vegetables","bread crumbs","spices","oil"]
+  },
+  {
+    "id": 174,
+    "name": "Peas Pulao Brown 174",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?peas-pulao-brown",
+    "ingredients": ["brown rice","peas","spices","ghee","salt"]
+  },
+  {
+    "id": 175,
+    "name": "Mushroom Curry 175",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?mushroom-curry",
+    "ingredients": ["mushroom","tomato","spices","cream","coriander"]
+  },
+  {
+    "id": 176,
+    "name": "Vegetable Sambar 176",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?vegetable-sambar",
+    "ingredients": ["toor dal","sambar powder","vegetables","tamarind","mustard seeds"]
+  },
+  {
+    "id": 177,
+    "name": "Aloo Chokha 177",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-chokha",
+    "ingredients": ["potato","spices","mustard oil","onion","coriander"]
+  },
+  {
+    "id": 178,
+    "name": "Cabbage Sabzi 178",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?cabbage-sabzi",
+    "ingredients": ["cabbage","spices","oil","mustard seeds","coriander"]
+  },
+  {
+    "id": 179,
+    "name": "Methi Thepla Roll 179",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-thepla-roll",
+    "ingredients": ["fenugreek","wheat flour","spices","oil","salt"]
+  },
+  {
+    "id": 180,
+    "name": "Sev Puri 180",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?sev-puri",
+    "ingredients": ["puri","potato","chutney","sev","spices"]
+  },
+  {
+    "id": 181,
+    "name": "Moong Dal Tadka 181",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?moong-dal-tadka",
+    "ingredients": ["moong dal","turmeric","ghee","cumin","garlic"]
+  },
+  {
+    "id": 182,
+    "name": "Corn & Spinach Rice 182",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-spinach-rice",
+    "tags": ["healthy"],
+    "ingredients": ["rice","corn","spinach","ghee","spices"]
+  },
+  {
+    "id": 183,
+    "name": "Aloo Methi Subzi 183",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-methi-subzi",
+    "ingredients": ["potato","fenugreek","spices","oil","salt"]
+  },
+  {
+    "id": 184,
+    "name": "Paneer Chettinad 184",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-chettinad",
+    "ingredients": ["paneer","chettinad masala","coconut","spices","coriander"]
+  },
+  {
+    "id": 185,
+    "name": "Mushroom Pepper Fry 185",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?mushroom-pepper-fry",
+    "ingredients": ["mushroom","black pepper","spices","oil","coriander"]
+  },
+  {
+    "id": 186,
+    "name": "Dal Palak 186",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?dal-palak",
+    "ingredients": ["dal","spinach","turmeric","cumin","ghee"]
+  },
+  {
+    "id": 187,
+    "name": "Tomato Sabzi 187",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-sabzi",
+    "ingredients": ["tomato","spices","oil","cumin","coriander"]
+  },
+  {
+    "id": 188,
+    "name": "Aloo Chana Masala 188",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-chana-masala",
+    "ingredients": ["potato","chickpeas","tomato","spices","cumin"]
+  },
+  {
+    "id": 189,
+    "name": "Vegetable Raita 189",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?vegetable-raita",
+    "ingredients": ["yogurt","cucumber","tomato","cumin","salt"]
+  },
+  {
+    "id": 190,
+    "name": "Schezwan Noodles 190",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?schezwan-noodles",
+    "ingredients": ["noodles","schezwan sauce","vegetables","soy sauce","garlic"]
+  },
+  {
+    "id": 191,
+    "name": "Methi Dal Fry 191",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-dal-fry",
+    "ingredients": ["dal","fenugreek","ghee","cumin","spices"]
+  },
+  {
+    "id": 192,
+    "name": "Paneer Korma 192",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-korma",
+    "ingredients": ["paneer","korma gravy","spices","cream","cashews"]
+  },
+  {
+    "id": 193,
+    "name": "Aloo Jeera 193",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-jeera",
+    "ingredients": ["potato","cumin","turmeric","oil","coriander"]
+  },
+  {
+    "id": 194,
+    "name": "Tomato Bhurji 194",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-bhurji",
+    "ingredients": ["tomato","spices","onion","cumin","coriander"]
+  },
+  {
+    "id": 195,
+    "name": "Sweet Poha 195",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?sweet-poha",
+    "ingredients": ["poha","jaggery","coconut","cardamom","nuts"]
+  },
+  {
+    "id": 196,
+    "name": "Methi Paratha Roll 196",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-paratha-roll",
+    "ingredients": ["fenugreek","wheat flour","spices","oil","salt"]
+  },
+  {
+    "id": 197,
+    "name": "Vegetable Pattice 197",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?vegetable-pattice",
+    "ingredients": ["potato","vegetables","bread crumbs","spices","oil"]
+  },
+  {
+    "id": 198,
+    "name": "Paneer Sandwich 198",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-sandwich",
+    "ingredients": ["bread","paneer","lettuce","spices","sauce"]
+  },
+  {
+    "id": 199,
+    "name": "Tomato Soup 199",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-soup",
+    "ingredients": ["tomato","vegetable stock","cream","spices","coriander"]
+  },
+  {
+    "id": 200,
+    "name": "Vegetable Steamed Rice 200",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?steamed-rice-vegetable",
+    "ingredients": ["rice","vegetables","salt","ghee","coriander"]
+  },
+  {
+    "id": 201,
+    "name": "Chole Puri 201",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?chole-puri",
+    "ingredients": ["chickpeas","flour","spices","oil","coriander"]
+  },
+  {
+    "id": 202,
+    "name": "Matar Poha 202",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?matar-poha",
+    "ingredients": ["poha","peas","spices","lemon","coriander"]
+  },
+  {
+    "id": 203,
+    "name": "Paneer Spring Roll 203",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-spring-roll",
+    "ingredients": ["spring roll wrappers","paneer","vegetables","sauce","oil"]
+  },
+  {
+    "id": 204,
+    "name": "Vegetable Jhunka 204",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?vegetable-jhunka",
+    "ingredients": ["besan","vegetables","spices","oil","coriander"]
+  },
+  {
+    "id": 205,
+    "name": "Aloo Rasedar 205",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-rasedar",
+    "ingredients": ["potato","tomato","spices","ghee","coriander"]
+  },
+  {
+    "id": 206,
+    "name": "Methi Matar Rice 206",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-rice",
+    "ingredients": ["fenugreek","peas","rice","ghee","spices"]
+  },
+  {
+    "id": 207,
+    "name": "Corn & Paneer Tikka 207",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-paneer-tikka",
+    "ingredients": ["corn","paneer","spices","yogurt","oil"]
+  },
+  {
+    "id": 208,
+    "name": "Tomato & Basil Pasta Indian 208",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-basil-pasta",
+    "ingredients": ["pasta","tomato","basil","olive oil","cheese"]
+  },
+  {
+    "id": 209,
+    "name": "Matar Paneer Tikka 209",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?matar-paneer-tikka",
+    "ingredients": ["peas","paneer","spices","yogurt","oil"]
+  },
+  {
+    "id": 210,
+    "name": "Sabudana Vada 210",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?sabudana-vada",
+    "ingredients": ["sabudana","potato","peanuts","spices","oil"]
+  },
+  {
+    "id": 211,
+    "name": "Paneer Cutlet 211",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-cutlet",
+    "ingredients": ["paneer","potato","bread crumbs","spices","oil"]
+  },
+  {
+    "id": 212,
+    "name": "Aloo Methi Sabji 212",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-methi-sabji",
+    "ingredients": ["potato","fenugreek","spices","oil","salt"]
+  },
+  {
+    "id": 213,
+    "name": "Methi Dal Khichdi 213",
+    "category": "jain",
+    "image": "https://source.unsplash.com/600x400/?methi-dal-khichdi",
+    "tags": ["healthy"],
+    "ingredients": ["dal","fenugreek","rice","ghee","cumin"]
+  },
+  {
+    "id": 214,
+    "name": "Tomato Idli 214",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-idli",
+    "ingredients": ["idli batter","tomato","spices","coriander","salt"]
+  },
+  {
+    "id": 215,
+    "name": "Veg Pattice Burger 215",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?veg-pattice-burger",
+    "ingredients": ["bun","pattice","lettuce","sauce","spices"]
+  },
+  {
+    "id": 216,
+    "name": "Potato Sagu 216",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?potato-sagu",
+    "ingredients": ["potato","spices","coconut","coriander","oil"]
+  },
+  {
+    "id": 217,
+    "name": "Methi Thepla Masala 217",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-thepla-masala",
+    "ingredients": ["fenugreek","wheat flour","spices","oil","salt"]
+  },
+  {
+    "id": 218,
+    "name": "Paneer Bhurji Roll 218",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-bhurji-roll",
+    "ingredients": ["roti","paneer","spices","onion","sauce"]
+  },
+  {
+    "id": 219,
+    "name": "Tomato & Lentil Stew 219",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-lentil-stew",
+    "ingredients": ["lentils","tomato","spices","coriander","lemon"]
+  },
+  {
+    "id": 220,
+    "name": "Corn & Cheese Sandwich 220",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-cheese-sandwich",
+    "ingredients": ["bread","corn","cheese","butter","spices"]
+  },
+  {
+    "id": 221,
+    "name": "Palak Kofta Rice 221",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?palak-kofta-rice",
+    "ingredients": ["spinach","kofta","rice","gravy","spices"]
+  },
+  {
+    "id": 222,
+    "name": "Methi Matar Soup 222",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-soup",
+    "tags": ["healthy"],
+    "ingredients": ["fenugreek","peas","vegetable stock","salt","pepper"]
+  },
+  {
+    "id": 223,
+    "name": "Aloo Bhindi 223",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-bhindi",
+    "ingredients": ["potato","bhindi","spices","oil","cumin"]
+  },
+  {
+    "id": 224,
+    "name": "Veg Mayo Sandwich 224",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?veg-mayo-sandwich",
+    "ingredients": ["bread","vegetables","mayonnaise","salt","pepper"]
+  },
+  {
+    "id": 225,
+    "name": "Tomato & Lentil Pulao 225",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-lentil-pulao",
+    "ingredients": ["rice","lentils","tomato","spices","ghee"]
+  },
+  {
+    "id": 226,
+    "name": "Matar Paneer Fry Rice 226",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?matar-paneer-fry-rice",
+    "ingredients": ["peas","paneer","rice","spices","ghee"]
+  },
+  {
+    "id": 227,
+    "name": "Corn Sundal 227",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-sundal",
+    "ingredients": ["corn","coconut","mustard seeds","curry leaves","salt"]
+  },
+  {
+    "id": 228,
+    "name": "Moong Sprouts Chaat 228",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?moong-sprouts-chaat",
+    "tags": ["healthy"],
+    "ingredients": ["sprouts","tomato","onion","lemon","salt"]
+  },
+  {
+    "id": 229,
+    "name": "Aloo Methi Sabzi Rice 229",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-methi-rice",
+    "ingredients": ["potato","fenugreek","rice","spices","ghee"]
+  },
+  {
+    "id": 230,
+    "name": "Paneer Kathi Roll 230",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-kathi-roll",
+    "ingredients": ["paratha","paneer","spices","onion","sauce"]
+  },
+  {
+    "id": 231,
+    "name": "Tomato & Spinach Pasta 231",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-spinach-pasta",
+    "ingredients": ["pasta","tomato","spinach","olive oil","cheese"]
+  },
+  {
+    "id": 232,
+    "name": "Veg Pulao Brown Rice 232",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?veg-pulao-brown-rice",
+    "ingredients": ["brown rice","mixed vegetables","spices","ghee","salt"]
+  },
+  {
+    "id": 233,
+    "name": "Paneer Pepper 233",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-pepper",
+    "ingredients": ["paneer","black pepper","spices","onion","oil"]
+  },
+  {
+    "id": 234,
+    "name": "Corn Fried Rice 234",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-fried-rice",
+    "ingredients": ["rice","corn","soy sauce","garlic","vegetables"]
+  },
+  {
+    "id": 235,
+    "name": "Tomato & Basil Rice 235",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-basil-rice",
+    "ingredients": ["rice","tomato","basil","olive oil","cheese"]
+  },
+  {
+    "id": 236,
+    "name": "Matar Paneer Rice 236",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?matar-paneer-rice",
+    "ingredients": ["peas","paneer","rice","spices","ghee"]
+  },
+  {
+    "id": 237,
+    "name": "Aloo Baingan Rice 237",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-baingan-rice",
+    "ingredients": ["potato","eggplant","rice","spices","ghee"]
+  },
+  {
+    "id": 238,
+    "name": "Veg Seekh 238",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?veg-seekh",
+    "ingredients": ["vegetable kebab","spices","oil","skewers","salt"]
+  },
+  {
+    "id": 239,
+    "name": "Paneer Tikka Rice 239",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-tikka-rice",
+    "ingredients": ["paneer","rice","spices","yogurt","oil"]
+  },
+  {
+    "id": 240,
+    "name": "Tomato & Lentil Salad 240",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-lentil-salad",
+    "tags": ["healthy"],
+    "ingredients": ["lentils","tomato","cucumber","lemon","olive oil"]
+  },
+  {
+    "id": 241,
+    "name": "Methi Paneer Tikka 241",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-paneer-tikka",
+    "ingredients": ["paneer","fenugreek","spices","yogurt","oil"]
+  },
+  {
+    "id": 242,
+    "name": "Veg Hakka Soup 242",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?veg-hakka-soup",
+    "ingredients": ["vegetable stock","noodles","vegetables","salt","pepper"]
+  },
+  {
+    "id": 243,
+    "name": "Aloo Pyaz 243",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-pyaz",
+    "ingredients": ["potato","onion","tomato","spices","oil"]
+  },
+  {
+    "id": 244,
+    "name": "Methi Matar Curry 244",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-curry",
+    "ingredients": ["fenugreek","peas","spices","cream","salt"]
+  },
+  {
+    "id": 245,
+    "name": "Paneer Masala Rice 245",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-masala-rice",
+    "ingredients": ["paneer","rice","tomato","spices","ghee"]
+  },
+  {
+    "id": 246,
+    "name": "Corn & Cheese Balls 246",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-cheese-balls",
+    "ingredients": ["corn","cheese","bread crumbs","spices","oil"]
+  },
+  {
+    "id": 247,
+    "name": "Tomato & Chickpea Stew 247",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-chickpea-stew",
+    "ingredients": ["chickpeas","tomato","spices","garlic","coriander"]
+  },
+  {
+    "id": 248,
+    "name": "Aloo Masala Dosa 248",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-masala-dosa",
+    "ingredients": ["dosa batter","potato","mustard seeds","curry leaves","spices"]
+  },
+  {
+    "id": 249,
+    "name": "Methi Matar Kulcha 249",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-kulcha",
+    "ingredients": ["fenugreek","peas","kulcha","spices","butter"]
+  },
+  {
+    "id": 250,
+    "name": "Palak Paneer Rice 250",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?palak-paneer-rice",
+    "ingredients": ["spinach","paneer","rice","ghee","spices"]
+  },
+  {
+    "id": 251,
+    "name": "Mixed Veg Curry 251",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?mixed-veg-curry",
+    "ingredients": ["mixed vegetables","tomato","spices","oil","coriander"]
+  },
+  {
+    "id": 252,
+    "name": "Aloo Bukhara Sabzi 252",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-bukhara-sabzi",
+    "ingredients": ["potato","dry plums","spices","oil","coriander"]
+  },
+  {
+    "id": 253,
+    "name": "Paneer Methi Rice 253",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-methi-rice",
+    "ingredients": ["paneer","fenugreek","rice","spices","ghee"]
+  },
+  {
+    "id": 254,
+    "name": "Tomato Bhaji 254",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-bhaji",
+    "ingredients": ["tomato","onion","spices","oil","coriander"]
+  },
+  {
+    "id": 255,
+    "name": "Matar Paneer Pakora 255",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?matar-paneer-pakora",
+    "ingredients": ["peas","paneer","besan","spices","oil"]
+  },
+  {
+    "id": 256,
+    "name": "Aloo Bharta 256",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-bharta",
+    "ingredients": ["potato","spices","mustard oil","onion","coriander"]
+  },
+  {
+    "id": 257,
+    "name": "Mixed Dal 257",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?mixed-dal",
+    "ingredients": ["toor dal","moong dal","masoor dal","turmeric","ghee"]
+  },
+  {
+    "id": 258,
+    "name": "Corn & Peas Pulao 258",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-peas-pulao",
+    "ingredients": ["rice","corn","peas","spices","ghee"]
+  },
+  {
+    "id": 259,
+    "name": "Tomato & Basil Sandwich 259",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-basil-sandwich",
+    "ingredients": ["bread","tomato","basil","cheese","butter"]
+  },
+  {
+    "id": 260,
+    "name": "Methi Matar Soup Rice 260",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-soup-rice",
+    "ingredients": ["fenugreek","peas","rice","spices","ghee"]
+  },
+  {
+    "id": 261,
+    "name": "Paneer Bhurji Rice 261",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-bhurji-rice",
+    "ingredients": ["paneer","rice","tomato","spices","ghee"]
+  },
+  {
+    "id": 262,
+    "name": "Vegetable Manchurian Rice 262",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?veg-manchurian-rice",
+    "ingredients": ["veg manchurian","rice","sauce","soy sauce","garlic"]
+  },
+  {
+    "id": 263,
+    "name": "Methi Matar Sandwich 263",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-sandwich",
+    "ingredients": ["bread","fenugreek","peas","spices","butter"]
+  },
+  {
+    "id": 264,
+    "name": "Corn & Spinach Sandwich 264",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-spinach-sandwich",
+    "ingredients": ["bread","corn","spinach","cheese","butter"]
+  },
+  {
+    "id": 265,
+    "name": "Aloo Matar Paratha 265",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-matar-paratha",
+    "ingredients": ["potato","peas","wheat flour","spices","ghee"]
+  },
+  {
+    "id": 266,
+    "name": "Paneer & Peas Curry 266",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-peas-curry",
+    "ingredients": ["paneer","peas","tomato","spices","cream"]
+  },
+  {
+    "id": 267,
+    "name": "Tomato & Garlic Chutney 267",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-garlic-chutney",
+    "ingredients": ["tomato","garlic","spices","oil","salt"]
+  },
+  {
+    "id": 268,
+    "name": "Methi Paneer Paratha 268",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-paneer-paratha",
+    "ingredients": ["fenugreek","paneer","wheat flour","spices","ghee"]
+  },
+  {
+    "id": 269,
+    "name": "Corn & Peas Soup 269",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-peas-soup",
+    "tags": ["healthy"],
+    "ingredients": ["corn","peas","vegetable stock","salt","pepper"]
+  },
+  {
+    "id": 270,
+    "name": "Tomato Chutney Sandwich 270",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-chutney-sandwich",
+    "ingredients": ["bread","tomato","chutney","butter","cheese"]
+  },
+  {
+    "id": 271,
+    "name": "Vegetable Curry Rice 271",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?vegetable-curry-rice",
+    "ingredients": ["mixed vegetables","rice","spices","ghee","coriander"]
+  },
+  {
+    "id": 272,
+    "name": "Matar Paneer Puff 272",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?matar-paneer-puff",
+    "ingredients": ["puff pastry","peas","paneer","spices","butter"]
+  },
+  {
+    "id": 273,
+    "name": "Tomato & Basil Paneer 273",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-basil-paneer",
+    "ingredients": ["paneer","tomato","basil","olive oil","spices"]
+  },
+  {
+    "id": 274,
+    "name": "Corn & Peas Bhurji 274",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-peas-bhurji",
+    "ingredients": ["corn","peas","spices","butter","salt"]
+  },
+  {
+    "id": 275,
+    "name": "Aloo Biryani 275",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-biryani",
+    "ingredients": ["rice","potato","spices","ghee","coriander"]
+  },
+  {
+    "id": 276,
+    "name": "Methi Matar Chilla 276",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-chilla",
+    "ingredients": ["besan","fenugreek","peas","spices","oil"]
+  },
+  {
+    "id": 277,
+    "name": "Corn & Spinach Chaat 277",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-spinach-chaat",
+    "ingredients": ["corn","spinach","chutney","lemon","spices"]
+  },
+  {
+    "id": 278,
+    "name": "Tomato & Basil Soup 278",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-basil-soup",
+    "tags": ["healthy"],
+    "ingredients": ["tomato","basil","vegetable stock","olive oil","salt"]
+  },
+  {
+    "id": 279,
+    "name": "Vegetable Pot Pie 279",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?vegetable-pot-pie",
+    "ingredients": ["pastry","mixed vegetables","gravy","spices","butter"]
+  },
+  {
+    "id": 280,
+    "name": "Aloo Capsicum Sabzi 280",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-capsicum-sabzi",
+    "ingredients": ["potato","capsicum","spices","oil","salt"]
+  },
+  {
+    "id": 281,
+    "name": "Methi Matar Kulfi 281",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?kulfi",
+    "ingredients": ["milk","sugar","fenugreek","peas","cardamom"]
+  },
+  {
+    "id": 282,
+    "name": "Tomato Rice Pulao 282",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-rice-pulao",
+    "ingredients": ["rice","tomato","spices","ghee","coriander"]
+  },
+  {
+    "id": 283,
+    "name": "Matar Paneer Cutlet 283",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?matar-paneer-cutlet",
+    "ingredients": ["peas","paneer","bread crumbs","spices","oil"]
+  },
+  {
+    "id": 284,
+    "name": "Aloo Methi Sabzi Rice 284",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-methi-rice",
+    "ingredients": ["potato","fenugreek","rice","spices","ghee"]
+  },
+  {
+    "id": 285,
+    "name": "Corn & Spinach Paratha 285",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-spinach-paratha",
+    "ingredients": ["corn","spinach","wheat flour","spices","ghee"]
+  },
+  {
+    "id": 286,
+    "name": "Tomato Chutney Dosa 286",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-chutney-dosa",
+    "ingredients": ["dosa batter","tomato","chutney","spices","coriander"]
+  },
+  {
+    "id": 287,
+    "name": "Paneer Biryani 287",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-biryani",
+    "ingredients": ["rice","paneer","spices","ghee","coriander"]
+  },
+  {
+    "id": 288,
+    "name": "Aloo Chana Pav 288",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-chana-pav",
+    "ingredients": ["potato","chickpeas","pav","spices","butter"]
+  },
+  {
+    "id": 289,
+    "name": "Methi Matar Pulav 289",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-pulav",
+    "ingredients": ["fenugreek","peas","rice","ghee","spices"]
+  },
+  {
+    "id": 290,
+    "name": "Tomato Paneer Curry 290",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-paneer-curry",
+    "ingredients": ["paneer","tomato","spices","cream","coriander"]
+  },
+  {
+    "id": 291,
+    "name": "Corn & Peas Pulav 291",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-peas-pulav",
+    "ingredients": ["rice","corn","peas","spices","ghee"]
+  },
+  {
+    "id": 292,
+    "name": "Paneer & Spinach Toast 292",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-spinach-toast",
+    "ingredients": ["bread","paneer","spinach","cheese","butter"]
+  },
+  {
+    "id": 293,
+    "name": "Aloo Tikki Burger 293",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-tikki-burger",
+    "ingredients": ["bun","tikki","lettuce","sauce","spices"]
+  },
+  {
+    "id": 294,
+    "name": "Methi Paratha Sandwich 294",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-paratha-sandwich",
+    "ingredients": ["fenugreek","wheat flour","spices","butter","cheese"]
+  },
+  {
+    "id": 295,
+    "name": "Tomato & Lentil Pancake 295",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-lentil-pancake",
+    "ingredients": ["lentil batter","tomato","spices","oil","coriander"]
+  },
+  {
+    "id": 296,
+    "name": "Veg Samosa 296",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?veg-samosa",
+    "ingredients": ["flour","potato","peas","spices","oil"]
+  },
+  {
+    "id": 297,
+    "name": "Mushroom Pulao 297",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?mushroom-pulao",
+    "ingredients": ["rice","mushroom","spices","ghee","coriander"]
+  },
+  {
+    "id": 298,
+    "name": "Paneer & Corn Curry 298",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-corn-curry",
+    "ingredients": ["paneer","corn","tomato","spices","cream"]
+  },
+  {
+    "id": 299,
+    "name": "Tomato & Pea Soup 299",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-pea-soup",
+    "tags": ["healthy"],
+    "ingredients": ["tomato","peas","vegetable stock","salt","pepper"]
+  },
+  {
+    "id": 300,
+    "name": "Aloo Palak Paratha 300",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-palak-paratha",
+    "ingredients": ["potato","spinach","wheat flour","spices","ghee"]
+  },
+  {
+    "id": 301,
+    "name": "Methi Matar Bowl 301",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-bowl",
+    "ingredients": ["fenugreek","peas","rice","spices","ghee"]
+  },
+  {
+    "id": 302,
+    "name": "Corn Tikki 302",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-tikki",
+    "ingredients": ["corn","potato","bread crumbs","spices","oil"]
+  },
+  {
+    "id": 303,
+    "name": "Paneer & Spinach Pasta 303",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-spinach-pasta",
+    "ingredients": ["pasta","paneer","spinach","olive oil","cheese"]
+  },
+  {
+    "id": 304,
+    "name": "Aloo & Peas Samosa 304",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-peas-samosa",
+    "ingredients": ["flour","potato","peas","spices","oil"]
+  },
+  {
+    "id": 305,
+    "name": "Methi Matar Bowl Rice 305",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-bowl-rice",
+    "ingredients": ["fenugreek","peas","rice","spices","ghee"]
+  },
+  {
+    "id": 306,
+    "name": "Tomato & Basil Toast 306",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-basil-toast",
+    "ingredients": ["bread","tomato","basil","cheese","butter"]
+  },
+  {
+    "id": 307,
+    "name": "Corn & Peas Chilla 307",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-peas-chilla",
+    "ingredients": ["besan","corn","peas","spices","oil"]
+  },
+  {
+    "id": 308,
+    "name": "Paneer Tawa Fry 308",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-tawa-fry",
+    "ingredients": ["paneer","spices","oil","onion","coriander"]
+  },
+  {
+    "id": 309,
+    "name": "Aloo & Peas Roast 309",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-peas-roast",
+    "ingredients": ["potato","peas","spices","oil","cumin"]
+  },
+  {
+    "id": 310,
+    "name": "Methi Matar Parfait 310",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-parfait",
+    "ingredients": ["fenugreek","peas","yogurt","spices","salt"]
+  },
+  {
+    "id": 311,
+    "name": "Tomato & Basil Pesto Rice 311",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-basil-pesto-rice",
+    "ingredients": ["rice","tomato","basil","olive oil","cheese"]
+  },
+  {
+    "id": 312,
+    "name": "Paneer Sundal 312",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-sundal",
+    "ingredients": ["paneer","coconut","mustard seeds","curry leaves","salt"]
+  },
+  {
+    "id": 313,
+    "name": "Aloo Cheese Sandwich 313",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-cheese-sandwich",
+    "ingredients": ["bread","potato","cheese","butter","spices"]
+  },
+  {
+    "id": 314,
+    "name": "Matar Paneer Parfait 314",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?matar-paneer-parfait",
+    "ingredients": ["peas","paneer","yogurt","spices","salt"]
+  },
+  {
+    "id": 315,
+    "name": "Tomato & Basil Galette 315",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-basil-galette",
+    "ingredients": ["pastry","tomato","basil","cheese","olive oil"]
+  },
+  {
+    "id": 316,
+    "name": "Corn & Peas Bhel 316",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-peas-bhel",
+    "ingredients": ["corn","peas","chutney","sev","lemon"]
+  },
+  {
+    "id": 317,
+    "name": "Aloo & Spinach Sandwich 317",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-spinach-sandwich",
+    "ingredients": ["bread","potato","spinach","cheese","butter"]
+  },
+  {
+    "id": 318,
+    "name": "Methi Matar Bowl Toast 318",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-toast",
+    "ingredients": ["fenugreek","peas","bread","spices","butter"]
+  },
+  {
+    "id": 319,
+    "name": "Tomato & Lentil Wrap 319",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-lentil-wrap",
+    "ingredients": ["wrap","lentils","tomato","spices","sauce"]
+  },
+  {
+    "id": 320,
+    "name": "Paneer & Corn Noodles 320",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-corn-noodles",
+    "ingredients": ["noodles","paneer","corn","soy sauce","vegetables"]
+  },
+  {
+    "id": 321,
+    "name": "Aloo & Peas Pulao 321",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-peas-pulao",
+    "ingredients": ["rice","potato","peas","spices","ghee"]
+  },
+  {
+    "id": 322,
+    "name": "Methi Matar Rice Bowl 322",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-rice-bowl",
+    "ingredients": ["fenugreek","peas","rice","spices","ghee"]
+  },
+  {
+    "id": 323,
+    "name": "Tomato & Basil Bruschetta 323",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-basil-bruschetta",
+    "ingredients": ["bread","tomato","basil","olive oil","cheese"]
+  },
+  {
+    "id": 324,
+    "name": "Paneer & Peas Pasta 324",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-peas-pasta",
+    "ingredients": ["pasta","paneer","peas","olive oil","cheese"]
+  },
+  {
+    "id": 325,
+    "name": "Corn & Spinach Rice Bowl 325",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?corn-spinach-rice-bowl",
+    "ingredients": ["rice","corn","spinach","ghee","spices"]
+  },
+  {
+    "id": 326,
+    "name": "Aloo & Peas Stew 326",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-peas-stew",
+    "ingredients": ["potato","peas","tomato","spices","coriander"]
+  },
+  {
+    "id": 327,
+    "name": "Methi Matar Parfait Rice 327",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-parfait-rice",
+    "ingredients": ["fenugreek","peas","rice","spices","ghee"]
+  },
+  {
+    "id": 328,
+    "name": "Tomato & Basil Pierogi 328",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-basil-pierogi",
+    "ingredients": ["dumplings","tomato","basil","cheese","butter"]
+  },
+  {
+    "id": 329,
+    "name": "Paneer & Corn Wrap 329",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-corn-wrap",
+    "ingredients": ["wrap","paneer","corn","spices","sauce"]
+  },
+  {
+    "id": 330,
+    "name": "Aloo & Peas Korma 330",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-peas-korma",
+    "ingredients": ["potato","peas","korma gravy","spices","cream"]
+  },
+  {
+    "id": 331,
+    "name": "Methi Matar Salad 331",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?methi-matar-salad",
+    "tags": ["healthy"],
+    "ingredients": ["fenugreek","peas","tomato","lemon","olive oil"]
+  },
+  {
+    "id": 332,
+    "name": "Tomato & Basil Quesadilla 332",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tomato-basil-quesadilla",
+    "ingredients": ["tortilla","tomato","basil","cheese","butter"]
+  },
+  {
+    "id": 333,
+    "name": "Paneer & Corn Chili 333",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-corn-chili",
+    "ingredients": ["paneer","corn","beans","spices","tomato"]
+  }
+  ,
+  {
+    "id": 334,
+    "name": "Dal Bati 334",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?dal-bati,rajasthani",
+    "ingredients": ["toor dal","wheat flour","ghee","spices","coriander"]
+  },
+  {
+    "id": 335,
+    "name": "Sev Usal 335",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?sev-usal",
+    "ingredients": ["sprouts","sev","tamarind chutney","green chutney","spices"]
+  },
+  {
+    "id": 336,
+    "name": "Samosa 336",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?samosa",
+    "ingredients": ["potato","peas","flour","spices","oil"]
+  },
+  {
+    "id": 337,
+    "name": "Kachori 337",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?kachori",
+    "ingredients": ["flour","spiced lentil filling","oil","spices","salt"]
+  },
+  {
+    "id": 338,
+    "name": "Burrito (Veg) 338",
+    "category": "mexican",
+    "image": "https://source.unsplash.com/600x400/?burrito,vegetarian",
+    "ingredients": ["tortilla","beans","rice","cheese","salsa"]
+  },
+  {
+    "id": 339,
+    "name": "Guacamole & Chips 339",
+    "category": "mexican",
+    "image": "https://source.unsplash.com/600x400/?guacamole",
+    "ingredients": ["avocado","tomato","lime","salt","tortilla chips"]
+  },
+  {
+    "id": 340,
+    "name": "Veg Fajita 340",
+    "category": "mexican",
+    "image": "https://source.unsplash.com/600x400/?veg-fajita",
+    "ingredients": ["tortilla","bell peppers","onion","spices","cheese"]
+  },
+  {
+    "id": 341,
+    "name": "Vegetarian Enchiladas 341",
+    "category": "mexican",
+    "image": "https://source.unsplash.com/600x400/?enchiladas,vegetarian",
+    "ingredients": ["tortillas","enchilada sauce","cheese","beans","spices"]
+  },
+  {
+    "id": 342,
+    "name": "Aloo Paratha Special 342",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?aloo-paratha",
+    "ingredients": ["potato","wheat flour","ghee","spices","butter"]
+  },
+  {
+    "id": 343,
+    "name": "Tawa Pulao 343",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?tawa-pulao",
+    "ingredients": ["rice","mixed vegetables","tawa masala","soy sauce","spices"]
+  },
+  {
+    "id": 344,
+    "name": "Paneer Paratha 344",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-paratha",
+    "ingredients": ["paneer","wheat flour","spices","ghee","salt"]
+  },
+  {
+    "id": 345,
+    "name": "Veg Tacos 345",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?vegetarian-tacos",
+    "tags": ["mexican"],
+    "ingredients": ["taco shells","beans","lettuce","salsa","cheese"]
+  },
+  {
+    "id": 346,
+    "name": "Bean Quesadilla 346",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?bean-quesadilla",
+    "tags": ["mexican"],
+    "ingredients": ["tortilla","beans","cheese","bell peppers","corn"]
+  },
+  {
+    "id": 347,
+    "name": "Mexican Rice Bowl 347",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?mexican-rice-bowl",
+    "tags": ["mexican","healthy"],
+    "ingredients": ["rice","beans","corn","tomato","avocado"]
+  },
+  {
+    "id": 348,
+    "name": "Margherita Pizza 348",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?margherita-pizza",
+    "tags": ["italian"],
+    "ingredients": ["pizza dough","tomato sauce","mozzarella","basil","olive oil"]
+  },
+  {
+    "id": 349,
+    "name": "Penne Arrabbiata 349",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?penne-arrabbiata",
+    "tags": ["italian"],
+    "ingredients": ["penne pasta","tomato","garlic","olive oil","chili flakes"]
+  },
+  {
+    "id": 350,
+    "name": "Mushroom Risotto 350",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?mushroom-risotto",
+    "tags": ["italian"],
+    "ingredients": ["arborio rice","mushroom","vegetable stock","parmesan","butter"]
+  },
+  {
+    "id": 351,
+    "name": "Chole Kulcha 351",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?chole-kulcha",
+    "tags": ["north-indian"],
+    "ingredients": ["chickpeas","kulcha","onion","tomato","chole masala"]
+  },
+  {
+    "id": 352,
+    "name": "Dal Makhani 352",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?dal-makhani",
+    "tags": ["north-indian"],
+    "ingredients": ["whole urad dal","rajma","butter","cream","spices"]
+  },
+  {
+    "id": 353,
+    "name": "Shahi Paneer 353",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?shahi-paneer",
+    "tags": ["north-indian"],
+    "ingredients": ["paneer","tomato","cashew","cream","spices"]
+  },
+  {
+    "id": 354,
+    "name": "Veg Hakka Noodles 354",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?veg-hakka-noodles",
+    "tags": ["indo-chinese"],
+    "ingredients": ["noodles","cabbage","carrot","soy sauce","garlic"]
+  },
+  {
+    "id": 355,
+    "name": "Paneer Chilli Dry 355",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?paneer-chilli",
+    "tags": ["indo-chinese"],
+    "ingredients": ["paneer","capsicum","onion","soy sauce","spring onion"]
+  },
+  {
+    "id": 356,
+    "name": "Veg Fried Rice 356",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?veg-fried-rice",
+    "tags": ["indo-chinese"],
+    "ingredients": ["rice","mixed vegetables","soy sauce","garlic","spring onion"]
+  },
+  {
+    "id": 357,
+    "name": "Bisibelebath 357",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?bisibelebath",
+    "tags": ["south-indian"],
+    "ingredients": ["rice","toor dal","vegetables","tamarind","bisibelebath powder"]
+  },
+  {
+    "id": 358,
+    "name": "Lemon Rice 358",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?lemon-rice",
+    "tags": ["south-indian","healthy"],
+    "ingredients": ["rice","lemon","mustard seeds","curry leaves","peanuts"]
+  },
+  {
+    "id": 359,
+    "name": "Curd Rice Tempered 359",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?curd-rice",
+    "tags": ["south-indian"],
+    "ingredients": ["rice","curd","mustard seeds","curry leaves","ginger"]
+  },
+  {
+    "id": 360,
+    "name": "Undhiyu 360",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?undhiyu",
+    "tags": ["gujarati"],
+    "ingredients": ["mixed vegetables","methi muthia","spices","groundnut","sesame"]
+  },
+  {
+    "id": 361,
+    "name": "Handvo 361",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?handvo",
+    "tags": ["gujarati","healthy"],
+    "ingredients": ["lentils","rice","bottle gourd","sesame","mustard seeds"]
+  },
+  {
+    "id": 362,
+    "name": "Sev Tameta Nu Shaak 362",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?sev-tameta",
+    "tags": ["gujarati"],
+    "ingredients": ["tomato","sev","spices","jaggery","oil"]
+  },
+  {
+    "id": 363,
+    "name": "Gatte Ki Sabzi 363",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?gatte-ki-sabzi",
+    "tags": ["rajasthani"],
+    "ingredients": ["besan","yogurt","spices","ghee","coriander"]
+  },
+  {
+    "id": 364,
+    "name": "Ker Sangri 364",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?ker-sangri",
+    "tags": ["rajasthani"],
+    "ingredients": ["ker","sangri","red chili","amchur","oil"]
+  },
+  {
+    "id": 365,
+    "name": "Mohanthal Plate 365",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?mohanthal",
+    "tags": ["rajasthani"],
+    "ingredients": ["besan","ghee","sugar","cardamom","nuts"]
+  },
+  {
+    "id": 366,
+    "name": "Misal Pav 366",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?misal-pav",
+    "tags": ["maharashtrian"],
+    "ingredients": ["sprouts curry","pav","sev","onion","lemon"]
+  },
+  {
+    "id": 367,
+    "name": "Pithla Bhakri 367",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?pithla-bhakri",
+    "tags": ["maharashtrian"],
+    "ingredients": ["besan","bhakri flour","garlic","green chili","oil"]
+  },
+  {
+    "id": 368,
+    "name": "Sabudana Vada 368",
+    "category": "hindu",
+    "image": "https://source.unsplash.com/600x400/?sabudana-vada",
+    "tags": ["maharashtrian"],
+    "ingredients": ["sabudana","potato","peanuts","green chili","oil"]
+  }
+]

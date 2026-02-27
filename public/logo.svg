@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#7bd389" />
+      <stop offset="1" stop-color="#4caf50" />
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="18" fill="#fff" />
+  <circle cx="60" cy="44" r="26" fill="url(#g)" />
+  <path d="M40 48c2-6 13-10 20-6 6 3 8 8 4 12-3 3-9 4-20 4-2 0-4-2-4-4 0-2 1-4 0-6z" fill="#fff" opacity="0.95" />
+  <rect x="44" y="74" width="32" height="6" rx="3" fill="#4caf50" />
+  <text x="60" y="108" font-family="Segoe UI, Roboto, Arial" font-size="10" text-anchor="middle" fill="#333">Satvik</text>
+</svg>
