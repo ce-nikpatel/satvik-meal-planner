@@ -61,29 +61,6 @@ function getMealCalorieBreakdown(meal) {
   return { lines, total };
 }
 
-function ImageWithFallback({ src, alt }) {
-  const [status, setStatus] = useState(src ? 'loading' : 'hidden');
-
-  if (!src || status === 'hidden') {
-    return null;
-  }
-
-  return (
-    <div className="meal-thumb-wrap">
-      {status === 'loading' && <div className="thumb-placeholder" />}
-      <img
-        className="meal-thumb"
-        src={src}
-        alt={alt}
-        onLoad={() => setStatus('loaded')}
-        onError={() => setStatus('hidden')}
-        loading="lazy"
-        style={{ opacity: status === 'loaded' ? 1 : 0, transition: 'opacity .18s linear' }}
-      />
-    </div>
-  );
-}
-
 function MenuGenerator() {
   const weekdays = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
   const [menu, setMenu] = useState([]);
@@ -157,7 +134,6 @@ function MenuGenerator() {
             <ul className="menu-list">
               {menu.map((meal, index) => (
                 <li key={meal.id} className="meal-card">
-                  <ImageWithFallback src={meal.image} alt={meal.name} />
                   <div className="meal-info">
                     <div className="meal-day">{weekdays[index] || `Day ${index + 1}`}</div>
                     <span className="meal-name">{meal.name}</span>
