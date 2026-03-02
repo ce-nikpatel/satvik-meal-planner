@@ -134,68 +134,63 @@ function MenuGenerator() {
 
   return (
     <div className="menu-generator">
-      <h2 className="page-title">Weekly Vegetarian Dinner Planner</h2>
+      <h2 className="page-title">Plan Your Week</h2>
       <p className="instructions">
-        Choose a category, then click Generate to get a randomized weekly dinner
-        menu and matching grocery list. Click again to reshuffle.
+        Select your meal preference and generate a complete week of dinner ideas with shopping list and nutrition info.
       </p>
 
       <div className="controls">
-        <label className="category-label">Category:</label>
+        <label className="category-label">Meal Preference:</label>
         <select value={category} onChange={(e) => setCategory(e.target.value)} aria-label="Category">
-          <option value="all">All</option>
+          <option value="all">All Vegetarian</option>
           <option value="hindu">Hindu</option>
           <option value="jain">Jain</option>
           <option value="healthy">Healthy</option>
         </select>
-        <button className="generate-btn" onClick={generateMenu}>Generate Menu</button>
+        <button className="generate-btn" onClick={generateMenu}>Generate Weekly Menu</button>
       </div>
 
       {menu.length > 0 && (
         <div className="results">
-          <h2 className="section-title">Dinner Menu</h2>
+          <h2 className="section-title">Your Weekly Menu</h2>
           <div className="results-grid">
             <ul className="menu-list">
               {menu.map((meal, index) => (
                 <li key={meal.id} className="meal-card">
-                  <div className="card-inner">
-                    <ImageWithFallback src={meal.image} alt={meal.name} />
-                    <div className="meal-info">
-                      <div>
-                        <div className="meal-day">{weekdays[index] || `Day ${index + 1}`}</div>
-                        <span className="meal-name">{meal.name}</span>
-                        <div className="meal-calories-row">
-                          <div className="meal-calories">{estimateCalories(meal)} kcal</div>
-                          <button
-                            type="button"
-                            className="meal-info-btn"
-                            aria-label="How calories are calculated"
-                            aria-expanded={infoMealId === meal.id}
-                            onClick={() => setInfoMealId((prev) => (prev === meal.id ? null : meal.id))}
-                          >
-                            i
-                          </button>
-                        </div>
-                        {infoMealId === meal.id && (
-                          <div className="meal-calorie-info">
-                            <div className="meal-calorie-info-title">Calories by ingredient</div>
-                            <ul>
-                              {getMealCalorieBreakdown(meal).lines.map((line, lineIndex) => (
-                                <li key={`${meal.id}-${line.ingredient}-${lineIndex}`}>
-                                  <span>{line.ingredient}</span>
-                                  <strong>{line.calories} kcal</strong>
-                                </li>
-                              ))}
-                            </ul>
-                            <div className="meal-calorie-total">
-                              <span>Total</span>
-                              <strong>{estimateCalories(meal)} kcal</strong>
-                            </div>
-                          </div>
-                        )}
-                        <div className={`badge ${meal.category}`}>{meal.category.toUpperCase()}</div>
-                      </div>
+                  <ImageWithFallback src={meal.image} alt={meal.name} />
+                  <div className="meal-info">
+                    <div className="meal-day">{weekdays[index] || `Day ${index + 1}`}</div>
+                    <span className="meal-name">{meal.name}</span>
+                    <div className="meal-calories-row">
+                      <div className="meal-calories">{estimateCalories(meal)} kcal</div>
+                      <button
+                        type="button"
+                        className="meal-info-btn"
+                        aria-label="How calories are calculated"
+                        aria-expanded={infoMealId === meal.id}
+                        onClick={() => setInfoMealId((prev) => (prev === meal.id ? null : meal.id))}
+                      >
+                        i
+                      </button>
                     </div>
+                    {infoMealId === meal.id && (
+                      <div className="meal-calorie-info">
+                        <div className="meal-calorie-info-title">Ingredient Breakdown</div>
+                        <ul>
+                          {getMealCalorieBreakdown(meal).lines.map((line, lineIndex) => (
+                            <li key={`${meal.id}-${line.ingredient}-${lineIndex}`}>
+                              <span>{line.ingredient}</span>
+                              <strong>{line.calories} kcal</strong>
+                            </li>
+                          ))}
+                        </ul>
+                        <div className="meal-calorie-total">
+                          <span>Total</span>
+                          <strong>{estimateCalories(meal)} kcal</strong>
+                        </div>
+                      </div>
+                    )}
+                    <div className={`badge ${meal.category}`}>{meal.category}</div>
                   </div>
                 </li>
               ))}
@@ -203,7 +198,7 @@ function MenuGenerator() {
             <div className="side-panels">
               <GroceryList list={groceryList} />
               <div className="calories-list card">
-                <h2>Calories List</h2>
+                <h2>Weekly Calories</h2>
                 <ul>
                   {weeklyCalories.map((item) => (
                     <li key={item.day} className="calorie-item">

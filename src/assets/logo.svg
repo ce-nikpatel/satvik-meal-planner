@@ -1,0 +1,23 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Leaf shape with gradient -->
+  <defs>
+    <linearGradient id="leafGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a9f6c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d7a4e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Main leaf -->
+  <path d="M60 20 C80 25, 95 40, 95 60 C95 80, 80 95, 60 100 C40 95, 25 80, 25 60 C25 40, 40 25, 60 20Z"
+        fill="url(#leafGradient)" stroke="#2d7a4e" stroke-width="2"/>
+
+  <!-- Leaf veins -->
+  <path d="M60 35 L60 85" stroke="#f4efe8" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M60 45 C50 48, 45 55, 45 60" stroke="#f4efe8" stroke-width="1.8" stroke-linecap="round" opacity="0.8"/>
+  <path d="M60 45 C70 48, 75 55, 75 60" stroke="#f4efe8" stroke-width="1.8" stroke-linecap="round" opacity="0.8"/>
+  <path d="M60 60 C50 63, 45 70, 45 75" stroke="#f4efe8" stroke-width="1.8" stroke-linecap="round" opacity="0.8"/>
+  <path d="M60 60 C70 63, 75 70, 75 75" stroke="#f4efe8" stroke-width="1.8" stroke-linecap="round" opacity="0.8"/>
+
+  <!-- Small accent circle -->
+  <circle cx="60" cy="60" r="8" fill="#f4efe8" opacity="0.3"/>
+</svg>
