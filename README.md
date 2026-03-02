@@ -2,6 +2,12 @@
 
 A React app that generates a weekly vegetarian dinner menu, builds a grocery list, and shows calorie insights for each meal.
 
+<img width="1627" height="876" alt="image" src="https://github.com/user-attachments/assets/9a258c64-cae5-4ea1-bbdf-a7ada3523cfb" />
+<img width="1633" height="896" alt="image" src="https://github.com/user-attachments/assets/f6d49a56-789e-4bd3-90e3-154ac1095232" />
+<img width="1601" height="845" alt="image" src="https://github.com/user-attachments/assets/2e5c6301-c87e-4849-8ff8-21910caf9e14" />
+
+
+
 ## What This App Does
 
 - Generates up to 7 random dinner meals (Monday to Sunday)
